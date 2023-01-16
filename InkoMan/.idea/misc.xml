@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1965" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/btn_bacground.xml" value="0.12" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/edt_bacground.xml" value="0.1965" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1965" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/message_box_bacground.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/drawable/recive_color_bacground.xml" value="0.174" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/activity_chat.xml" value="0.3144963144963145" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/activity_test_notifi.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/recive.xml" value="0.264" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/sent.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/layout/user_layout.xml" value="0.25432525951557095" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/mr_MoRRiSoN/AndroidStudioProjects/InkoMan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/test/InkoMan/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/test/InkoMan/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

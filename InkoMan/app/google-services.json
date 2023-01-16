@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518687153398",
+    "project_id": "incoman-8da2a",
+    "storage_bucket": "incoman-8da2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518687153398:android:2ba6922001a1f60c9a20d7",
+        "android_client_info": {
+          "package_name": "com.example.inkoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518687153398-b2o3e1v2dl0drh7hokjnu8ro9njbqu54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7R8Nq6II4xvP4G66KJOeqv2jG-AQGVxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518687153398-b2o3e1v2dl0drh7hokjnu8ro9njbqu54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

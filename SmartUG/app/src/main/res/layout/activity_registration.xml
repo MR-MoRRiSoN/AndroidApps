@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Registration"
+    android:background="@drawable/registrationbacground"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/headRegistration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="35dp"
+        android:text="Registration"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold"
+
+        />
+
+    <EditText
+
+        android:id="@+id/name"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headRegistration"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:drawableLeft="@drawable/n_1_2_1_2"
+        android:drawablePadding="10dp"
+        android:maxLines="20"
+
+        android:text="Name"
+        android:textColor="@color/white" />
+
+    <EditText
+        android:id="@+id/surname"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/n_1_2_1_2"
+        android:drawablePadding="10dp"
+        android:maxLines="20"
+        android:text="Surname"
+        android:textColor="@color/white"
+
+
+        />
+
+    <EditText
+        android:id="@+id/regUsername"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/surname"
+        android:layout_marginLeft="30dp"
+        android:drawableLeft="@drawable/n_33333"
+        android:drawablePadding="10dp"
+        android:maxLines="20"
+        android:text="Username"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+
+        />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/regUgCode"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/regUsername"
+        android:layout_marginLeft="30dp"
+        android:drawableLeft="@drawable/n_4"
+        android:maxLines="20"
+        android:drawablePadding="10dp"
+        android:text="UG Code"
+        android:textColor="@color/white"
+
+        />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:drawablePadding="10dp"
+        android:id="@+id/gmail"
+        android:drawableLeft="@drawable/n_5"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/regUgCode"
+        android:layout_marginLeft="30dp"
+        android:maxLines="25"
+        android:text="Mail"
+        android:textColor="@color/white"
+
+        />
+
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/regPassword"
+        android:layout_width="300dp"
+        android:layout_height="44dp"
+        android:layout_below="@+id/gmail"
+        android:layout_marginLeft="30dp"
+        android:drawablePadding="10dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:drawableLeft="@drawable/n_6"
+
+
+        />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/regPassword2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/regPassword"
+        android:layout_marginLeft="30dp"
+        android:hint="Confirm Password"
+        android:drawableLeft="@drawable/n_6"
+        android:drawablePadding="10dp"
+        android:inputType="textPassword"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+
+        />
+
+    <CheckBox
+        android:id="@+id/regAgree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/regPassword2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="40dp"
+        android:text="Agree with term &amp; Conditions"
+        android:textColor="@color/white" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/createAcc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/regAgree"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-54dp"
+        android:drawableLeft="@drawable/createnew"
+        android:text="Create Account"
+        android:textSize="20dp"
+        app:cornerRadius="50dp"
+
+
+        />
+
+
+</RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14533303211",
+    "firebase_url": "https://ugdatabase-ba66f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ugdatabase-ba66f",
+    "storage_bucket": "ugdatabase-ba66f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14533303211:android:96dea4ddb26a85bc7450ee",
+        "android_client_info": {
+          "package_name": "com.example.smartug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14533303211-3ppneedf0ukl2llq17j7i71kl62qfomu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooB-4d3cJjeDbitNfTI-ZvFmC1jskkTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14533303211-3ppneedf0ukl2llq17j7i71kl62qfomu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
